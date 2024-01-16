@@ -4,13 +4,13 @@
 
 ## Student
 
-**Name**: Phu Phung
+**Name**: Gali Sai Divakar Reddy
 
-**Email**: phungph@ucmail.uc.edu
+**Email**: galisy@mail.uc.edu
 
-**Short-bio**: Phu Phung has keen interests in ethical hacking and secure software development. 
+**Short-bio**: I am in my second semester of the MSIT, I have interest in web development. 
 
-![Phu's headshot](images/headshot.jpg)
+![Divakar's headshot](images/headshot.jpg)
 
 ## Repository Information
 
