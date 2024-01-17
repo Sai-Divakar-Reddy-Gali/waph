@@ -14,7 +14,7 @@
 
 ## Repository Information
 
-Respository's URL: [https://github.com/phungph-uc/waph-phungph.git](https://github.com/Sai-Divakar-Reddy-Gali/waph.git)
+Respository's URL: [https://github.com/Sai-Divakar-Reddy-Gali/waph.git](https://github.com/Sai-Divakar-Reddy-Gali/waph.git)
 
 This is a private repository for Divakar to store all code from the course. The organization of this repository is as follows.
 
